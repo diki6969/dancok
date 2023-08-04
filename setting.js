@@ -12,8 +12,8 @@ global.Max_Bug_Attack = 25 // berarti batas maksimal 20× spam bug attack
 // OWNER SETTING
 global.BotName = 'Bug Orang Kontol'
 global.OwnerName = 'IkyyOFC'
-global.OwnerNumber = '6282279915237'
-global.DeveloperBot = ['6282279915237','6282279915237']
+global.OwnerNumber = '6282281657946'
+global.DeveloperBot = ['6282281657946','6282281657946']
 
 // MESSAGES
 global.mess = {
