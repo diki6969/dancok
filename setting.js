@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // BOT SETTING
-global.AutoRead = false // true jika ingin mengaktifkan bot autoread
-global.AutoMengetik = false  // true jika ingin mengaktifkan bot mengetik
-global.ModePublic = true  // false jika ingin mematikan bot mode public
+global.AutoRead = true // true jika ingin mengaktifkan bot autoread
+global.AutoMengetik = true  // true jika ingin mengaktifkan bot mengetik
+global.ModePublic = false  // false jika ingin mematikan bot mode public
 global.WaktuDelayBug = 2000 // berarti delay nya 2 detik buat ngirim bug
 global.Max_Bug_Emoji = 40 // berarti batas maksimal 30× spam bug emoji
 global.Max_Bug_Attack = 25 // berarti batas maksimal 20× spam bug attack
