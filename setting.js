@@ -10,8 +10,8 @@ global.Max_Bug_Emoji = 40 // berarti batas maksimal 30× spam bug emoji
 global.Max_Bug_Attack = 25 // berarti batas maksimal 20× spam bug attack
 
 // OWNER SETTING
-global.BotName = 'Botzz MD'
-global.OwnerName = 'Lexxy OFC'
+global.BotName = 'Bug Orang Kontol'
+global.OwnerName = 'IkyyOFC'
 global.OwnerNumber = '6282279915237'
 global.DeveloperBot = ['6282279915237','6282279915237']
 
